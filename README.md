@@ -1,2 +1,2 @@
 
-![Image not found] (/img/ok.png)
+![Image not found](img/ok.png)
